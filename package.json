@@ -1,0 +1,23 @@
+{
+  "name": "eNovel",
+  "version": "1.0.0",
+  "description": "这是一个关于金庸小说的简介的电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limengxue130402/eNovel.git"
+  },
+  "keywords": [],
+  "author": "limengxue130402",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limengxue130402/eNovel/issues"
+  },
+  "homepage": "https://github.com/limengxue130402/eNovel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
